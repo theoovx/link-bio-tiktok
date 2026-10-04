@@ -5,7 +5,7 @@
   var WA_NUMBER="62881022234499";
   var DISCORD="fre4kyperson";
   var CHANNEL_URL="https://whatsapp.com/channel/0029Vb3cXucLikgFn4HL9L1I";
-  var AVATAR="assets/avatar.jpg";
+  var AVATAR="avatar.jpg";
   var AM_NUMBER="6285835974167";
   var AM_MESSAGE="mau langganan am theo";
 
