@@ -1,19 +1,21 @@
-# Link Bio
+# Link Bio TikTok
 
-A modern and minimalist bio link website featuring a glassmorphism interface, responsive design, smooth interactions, and a clean layout for organizing social media, profiles, and other online links.
+A modern and minimalist bio link website featuring a glassmorphism interface, responsive design, smooth interactions, and a clean layout for organizing social media profiles and online links.
+
+Although designed with TikTok profiles in mind, this project can be customized and used as a bio link page for **Instagram, Discord, WhatsApp, Facebook, X, YouTube, and other social media platforms**.
 
 ## ✨ Features
 
 - Modern glassmorphism UI
-- Responsive design for mobile and desktop
-- Smooth hover and tap interactions
-- Subtle page animations
-- Clean and organized link layout
-- Direct social media links
-- Discord username copy interaction
-- Direct WhatsApp links
+- Responsive mobile-first design
 - Dark and minimal visual style
-- Lightweight and easy to customize
+- Smooth hover and tap interactions
+- Subtle entrance animations
+- Customizable social media links
+- Direct WhatsApp links
+- Discord username copy interaction
+- Lightweight HTML, CSS, and JavaScript structure
+- Easy to customize for different social media platforms
 
 ## 🛠️ Built With
 
@@ -26,7 +28,7 @@ A modern and minimalist bio link website featuring a glassmorphism interface, re
 ## 📁 Project Structure
 
 ```text
-link-bio/
+link-bio-tiktok/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -34,28 +36,55 @@ link-bio/
     └── profile.jpg
 ```
 
-## 🚀 Getting Started
+## 🚀 Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/theoovx/link-bio.git
+git clone https://github.com/theoovx/link-bio-tiktok.git
+cd link-bio-tiktok
 ```
 
-Open the project folder and launch `index.html` in your browser.
+Open `index.html` directly in your browser.
 
-For local development, you can also use **VS Code + Live Server**.
+For local development, you can use **VS Code + Live Server**.
 
-## 🎨 Design
+## 🌐 Live Demo
 
-The website uses a dark glassmorphism aesthetic with translucent surfaces, subtle borders, blur effects, soft lighting, and minimal accent colors.
+[View Live Demo](https://theoovx.github.io/link-bio-tiktok/)
 
-The layout is designed with a mobile-first approach while remaining responsive on desktop screens.
+## 🎨 Customization
 
-## 📱 Responsive
+You can easily customize the website by editing:
 
-The interface is optimized for mobile devices, making it suitable for use as a personal bio link page while maintaining a clean appearance on larger screens.
+- `index.html` for profile information and social media links
+- `style.css` for colors, glass effects, spacing, and layout
+- `script.js` for interactive features
+- `assets/profile.jpg` for the profile picture
+
+The existing links can be replaced with your own social media accounts and online platforms.
+
+## 📱 Use Cases
+
+This project can be used as a personal bio link page for:
+
+- TikTok
+- Instagram
+- WhatsApp
+- Discord
+- YouTube
+- Facebook
+- X
+- Personal websites
+- Other social media platforms
+
+## 📦 Release
+
+**Version:** `v1.0.0`  
+**Status:** Stable
+
+This is the first stable release of the project.
 
 ## 📄 License
 
-This project is for personal use and experimentation.
+This project is available for personal use, customization, and experimentation.
